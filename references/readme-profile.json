@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 359｜Crayon Little World: keeps the photo and rebuilds its most recognisable subject, outline, structure, pose and story as a large pale silhouette rubbed in crayon, edges dissolving, centred on warm-white paper with far more blank space than drawing. Inside, a clumsy crayon world draws the subject small, one small thing from the photo larger and filled half-and-half in two colours, a circled light spot above, a short thick dark stroke for one detail, a few crooked ground lines and grass, big heads and stick limbs, and one short naive poem in thin uneven near-black handwriting beside the silhouette. The brightest colour is only on the light spot and the enlarged object, and the silhouette stays pale. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-359 or asks for a pale crayon silhouette, a little crayon world or a picture-book doodle from a photo.",
+  "short_description": "蜡笔小世界：淡色大剪影里藏着比例全乱的蜡笔小画，旁边一句细黑手写短诗",
+  "zh-CN": {
+    "name": "蜡笔小世界",
+    "tagline": "把照片主体收进淡色蜡笔大剪影，里面画一个比例全乱的小世界。",
+    "look": "照片里最好认的主体、轮廓、结构和姿态被收成几块大形，放进画面中央一块用蜡笔来回涂满、边缘松松化开的浅色大剪影里，四周留白远多于画，小世界挤在剪影下半部，主体完整、头顶留一点空，任何部分都不碰到中间的折痕。剪影里主体被画小，照片里一件小东西反而比主体更大并涂实成两半两种颜色，上方挂一个绕圈的小光点，剪影顶上一笔深色短粗线点出最好认的小细节，地面只有几道歪短线和几簇小草；人、动物、建筑和器物都是头大身小、四肢只有几根短线的笨拙蜡笔小画，线条歪、断、不讲比例。纸面是干净的暖白，蜡笔只出现在剪影和小画上，剪影取照片里最柔和的浅色，最鲜亮的颜色只给小光点和那件被画大的东西，线条近黑。剪影一侧用细细的近黑手写字写成参差几行的一句短诗，字很小、大小不一、忽高忽低，不念画里东西的名字，也不配编号、细线和小标签，中文用简体。",
+    "traits": [
+      "淡色蜡笔大剪影",
+      "比例错位的小世界",
+      "暖白大留白",
+      "被画大的两色小物",
+      "歪而断开的蜡笔线",
+      "细黑手写短诗"
+    ],
+    "good": [
+      "轮廓清楚的单个主体：一个人、一只猫、一辆自行车、一栋小房子",
+      "旁边有一件可以画得更大的小东西：一朵花、一只杯子、一只鸟",
+      "构图差、背景乱或主体很小的照片，会被收成几块大形"
+    ],
+    "poor": [
+      "很多人、很多东西都要留下来的热闹场面，这里只取一个单体和一件小东西",
+      "想要比例准确、画得熟练，或剪影边缘是一条硬线的需求",
+      "想铺满画面、剪影用浓色，或加上编号、细线和小标签的需求"
+    ]
+  },
+  "en": {
+    "name": "Crayon Little World",
+    "tagline": "Places the subject in a large pale crayon silhouette and draws a clumsy little world with the scale all wrong.",
+    "look": "The most recognisable subject, outline, structure and pose are reduced to a few big shapes and set inside a large pale silhouette in the centre, rubbed back and forth in crayon so the edges dissolve, with far more blank paper around it than drawing, the little world crowded into the lower half of the silhouette, the subject whole with a little space above its head, and nothing touching the horizontal fold. The subject is drawn small, while one small thing from the photo is drawn larger and filled solid, half one colour and half another; a small light spot drawn by circling hangs above, a short thick dark stroke on top of the silhouette marks its clearest detail, the ground is only a few crooked short lines and a few tufts of grass, and people, animals, buildings and objects are the same clumsy crayon doodles, big-headed and small-bodied, limbs just a few short lines, crooked, broken and out of proportion. The paper is clean warm white, crayon appears only on the silhouette and the little drawings, the silhouette takes the softest pale colour in the photo, the brightest colour is kept for the light spot and the enlarged object, and the lines stay near-black. Beside the silhouette, one short poem sits in thin near-black handwriting on staggered lines, the letters uneven in size and height, much smaller than the subject, naming nothing in the picture, carrying no number, rule or small label, and written in simplified characters when the line is Chinese.",
+    "traits": [
+      "Pale crayon-filled silhouette",
+      "Little world with the scale wrong",
+      "Wide warm-white space",
+      "One small thing enlarged in two colours",
+      "Crooked, broken crayon lines",
+      "Thin handwritten short poem"
+    ],
+    "good": [
+      "A single subject with a clear outline: a person, a cat, a bicycle, a small house",
+      "A photo with one small thing that can be drawn larger: a flower, a cup, a bird",
+      "Photos with weak composition, a messy background or a tiny subject, which get reduced to a few big shapes"
+    ],
+    "poor": [
+      "Busy scenes where many people and objects all need to stay, since only one subject and one small thing are kept",
+      "Requests for correct proportions, a skilled illustration, or a hard edge on the silhouette",
+      "Requests for a filled page, a dark silhouette, or numbers, rules and small labels"
+    ]
+  },
+  "ja": {
+    "name": "クレヨン小世界",
+    "tagline": "写真の主役を淡いクレヨンの大きなシルエットに収め、中に比率の崩れた小さな世界を描きます。",
+    "look": "写真でいちばん見分けやすい主役の輪郭、構造、姿勢をいくつかの大きな形にまとめ、画面中央でクレヨンを往復させて塗った、縁のゆるくにじむ淡い大きなシルエットに収め、周囲の余白は絵よりずっと広く、小さな世界はシルエットの下半分に寄り、主役は欠けず頭の上に少し空きがあり、中央の折り目には何も触れません。主役は小さく描かれ、写真の中の小さな物はそれより大きく、半分ずつ別の色でべた塗りされ、上にはぐるぐる描いた光点が掛かり、天辺には短い太い濃い線でいちばん分かる細部が付き、地面は歪んだ短い線が数本と草の束が少しだけで、人、動物、建物、器物はどれも同じ不器用なクレヨン画で、頭が大きく体は小さく、手足は短い線が数本、線は歪んで途切れ、比率を守りません。紙はきれいな暖かな白で、クレヨンはシルエットと小さな絵にだけ付き、色は写真でいちばん柔らかい淡色、いちばん鮮やかな色は光点と大きく描いた物だけ、線はほぼ黒です。シルエットの脇には、細い黒い手書きで、でこぼこした数行の短い詩が一つだけ入り、字は主役よりずっと小さく、大きさも高さもばらばらで、絵の中の物の名前は書かず、番号も細線も小さなラベルも付かず、中国語なら簡体字にします。",
+    "traits": [
+      "淡いクレヨンの大きなシルエット",
+      "比率の崩れた小世界",
+      "暖かな白の広い余白",
+      "大きく描いた二色の小物",
+      "歪んで途切れるクレヨンの線",
+      "細い手書きの短い詩"
+    ],
+    "good": [
+      "輪郭のはっきりした単体：人、猫、自転車、小さな家",
+      "大きく描ける小さな物がそばにある写真：花、カップ、鳥",
+      "構図が弱い、背景が散らかっている、主役が小さい写真（いくつかの大きな形にまとめます）"
+    ],
+    "poor": [
+      "人や物をたくさん残したい賑やかな場面（残すのは一つの主体と小さな物一つだけです）",
+      "正しい比率、上手な挿絵、シルエットの縁を硬い線にしたい場合",
+      "画面を埋めたい、シルエットを濃い色にしたい、番号や細線や小さなラベルを付けたい場合"
+    ]
+  },
+  "ko": {
+    "name": "크레용 작은 세계",
+    "tagline": "사진 속 주인공을 옅은 크레용 큰 실루엣 안에 넣고, 비율이 엉망인 작은 세계를 그립니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공의 윤곽, 구조, 자세를 몇 개의 큰 형태로 줄여, 화면 한가운데 크레용을 왔다 갔다 칠해 가장자리가 부드럽게 번진 옅은 큰 실루엣 안에 넣고, 주위 여백이 그림보다 훨씬 넓으며, 작은 세계는 실루엣 아래쪽에 모이고, 주인공은 잘리지 않은 채 머리 위를 조금 비우며, 가운데 접힘에는 아무것도 닿지 않습니다. 주인공은 작게 그리고, 사진 속 작은 물건은 주인공보다 더 크게 두 색으로 반반 채워 칠하며, 위에는 동그라미로 그린 작은 빛점이 걸리고, 실루엣 꼭대기에는 짧고 굵은 어두운 선으로 가장 알아보기 쉬운 세부를 찍고, 땅은 비뚤어진 짧은 선 몇 개와 풀 몇 포기뿐이며, 사람, 동물, 건물, 물건은 모두 같은 서툰 크레용 그림으로, 머리는 크고 몸은 작으며 팔다리는 짧은 선 몇 개이고, 선은 비뚤고 끊어지며 비율을 지키지 않습니다. 종이는 깨끗한 따뜻한 흰색이고 크레용은 실루엣과 작은 그림에만 있으며, 실루엣은 사진에서 가장 부드러운 옅은 색, 가장 밝은 색은 빛점과 크게 그린 물건에만 쓰고 선은 거의 검정입니다. 실루엣 옆에는 가는 검정 손글씨로 들쭉날쭉한 몇 줄의 짧은 시 한 구만 두고, 글자는 주인공보다 훨씬 작고 크기와 높이가 제각각이며, 그림 속 물건 이름은 쓰지 않고 번호나 가는 선, 작은 라벨도 붙이지 않으며, 중국어는 간체로 씁니다.",
+    "traits": [
+      "옅은 크레용 큰 실루엣",
+      "비율이 어긋난 작은 세계",
+      "따뜻한 흰색의 넓은 여백",
+      "더 크게 그린 두 색 소품",
+      "비뚤고 끊긴 크레용 선",
+      "가는 손글씨 짧은 시"
+    ],
+    "good": [
+      "윤곽이 분명한 하나: 사람, 고양이, 자전거, 작은 집",
+      "더 크게 그릴 작은 것이 곁에 있는 사진: 꽃, 컵, 새",
+      "구도가 약하거나 배경이 어수선하거나 주인공이 작은 사진(몇 개의 큰 형태로 줄입니다)"
+    ],
+    "poor": [
+      "사람과 물건을 많이 남겨야 하는 북적한 장면(하나만 남기고 작은 것 하나만 그립니다)",
+      "정확한 비율, 능숙한 삽화, 실루엣 가장자리를 硬い 선으로 원하는 경우",
+      "화면을 채우거나 실루엣을 진한 색으로 하거나 번호, 가는 선, 작은 라벨을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "عالم أقلام الشمع",
+    "tagline": "يضع العنصر داخل صورة ظلية كبيرة شاحبة مملوءة بقلم الشمع، ويرسم فيها عالماً صغيراً تختلّ نِسبه.",
+    "look": "يُختزل أوضح عنصر في الصورة، مع حدوده وبنيته ووقفته، إلى بضع كتل كبيرة داخل صورة ظلية شاحبة في وسط الصفحة، مملوءة بتمريرات قلم الشمع وحوافها ذائبة، والفراغ حولها أوسع من الرسم بكثير، والعالم الصغير محشور في نصفها السفلي، والعنصر كامل مع فراغ صغير فوق رأسه، ولا يلامس شيء الثنية الأفقية في الوسط. يُرسم العنصر صغيراً، بينما يُكبَّر شيء صغير من الصورة حتى يصير أكبر منه ويُملأ بلونين نصفين، وتعلو بقعة ضوء صغيرة مرسومة بالدوران، وفي أعلى الصورة الظلية خط قصير سميك داكن لأبرز تفصيل، والأرض بضع خطوط قصيرة معوجّة وخصلاً من العشب، والناس والحيوانات والمباني والأشياء كلها رسوم شمع مرتبكة بالدرجة نفسها، برأس كبير وجسم صغير وأطراف من خطوط قصيرة، والخطوط معوجّة ومتقطعة ولا تحفظ النسب. الورق أبيض دافئ نظيف، وقلم الشمع لا يظهر إلا على الصورة الظلية والرسوم الصغيرة، ولون الصورة الظلية هو أهدأ لون فاتح في الصورة، وأسطع لون يُستخدم فقط في بقعة الضوء والشيء المكبَّر، والخطوط قريبة من الأسود. إلى جانب الصورة الظلية بيت شعر قصير واحد بخط يد أسود رفيع، في أسطر متفاوتة وحروف بأحجام مختلفة تعلو وتهبط، أصغر بكثير من العنصر، لا يسمّي ما في الرسم ولا يصحبه رقم أو خط رفيع أو لصيقة، والصينية تُكتب بالمبسّط.",
+    "traits": [
+      "صورة ظلية شاحبة بقلم الشمع",
+      "عالم صغير تختلّ نِسبه",
+      "فراغ أبيض دافئ واسع",
+      "شيء صغير مكبَّر بلونين",
+      "خطوط شمع معوجّة متقطعة",
+      "بيت شعر قصير بخط رفيع"
+    ],
+    "good": [
+      "عنصر واحد واضح الحدود: شخص، قطة، دراجة، بيت صغير",
+      "صورة فيها شيء صغير يمكن تكبيره: زهرة، فنجان، طائر",
+      "صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، تُختزل إلى بضع كتل"
+    ],
+    "poor": [
+      "مشهد مزدحم يجب أن يبقى فيه كثير من الأشخاص والأشياء، إذ لا يُؤخذ إلا عنصر واحد وشيء صغير",
+      "طلب نِسب صحيحة أو رسم متقن أو حافة حادة للصورة الظلية",
+      "طلب ملء الصفحة أو صورة ظلية داكنة أو أرقام وخطوط رفيعة ولصيقات"
+    ]
+  }
+}

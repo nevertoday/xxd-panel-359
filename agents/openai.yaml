@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 359"
+  short_description: "蜡笔小世界：淡色大剪影里藏着比例全乱的蜡笔小画，旁边一句细黑手写短诗"
+  default_prompt: "Use $xxd-panel-359 to turn my photo into Crayon Little World artwork."
